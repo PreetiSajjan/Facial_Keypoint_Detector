@@ -8,12 +8,10 @@ Facial keypoints include points around the eyes, nose, and mouth on a face and a
 1. Detect all the faces in an image using a face detector (Haar Cascade detector is used in this project).
 2. Pre-process face images so that they are grayscale, and transformed to a Tensor of the input size that your net expects. 
 3. Use your trained model to detect facial keypoints on the image.
-
 ![](images/Design.PNG)
 
 # Model Output
 ![](images/key_pts_example.png)
-
 # To use
 Clone the repository using command: git clone https://github.com/PreetiSajjan/Facial_Keypoint_Detector.git
 
