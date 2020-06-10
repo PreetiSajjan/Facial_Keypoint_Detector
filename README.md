@@ -22,5 +22,7 @@ The dataset used is included in the repository so need not to be downloaded expl
 # Contribution and References
 
 Feel free to contribute to the project.
+
 Please note that this project was done as part of my course "A Nanodegree in Computer Vision"
+
 ** Kindly cite if any part of the code is referred. **
